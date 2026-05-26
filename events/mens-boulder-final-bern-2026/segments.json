@@ -1,0 +1,194 @@
+{
+  "video_id": "QVkppNWQFEU",
+  "title": "Men's Boulder final | Bern 2026",
+  "upload_date": "2026-05-24",
+  "athletes": [
+    {
+      "name": "Colin DUFFY",
+      "country": "USA"
+    },
+    {
+      "name": "Adi BARK",
+      "country": "ISR"
+    },
+    {
+      "name": "Maximillian MILNE",
+      "country": null
+    },
+    {
+      "name": "Mejdi SCHALCK",
+      "country": "FRA"
+    },
+    {
+      "name": "Paul JENFT",
+      "country": "FRA"
+    },
+    {
+      "name": "Hannes VAN DUYSEN",
+      "country": "BEL"
+    },
+    {
+      "name": "Sohta AMAGASA",
+      "country": "JPN"
+    },
+    {
+      "name": "Sorato ANRAKU",
+      "country": "JPN"
+    }
+  ],
+  "segments": [
+    {
+      "start": 780.0,
+      "end": null,
+      "athletes": [
+        0
+      ]
+    },
+    {
+      "start": 1053.0,
+      "end": null,
+      "athletes": [
+        1
+      ]
+    },
+    {
+      "start": 1316.0,
+      "end": null,
+      "athletes": [
+        2
+      ]
+    },
+    {
+      "start": 1591.0,
+      "end": null,
+      "athletes": [
+        3
+      ]
+    },
+    {
+      "start": 1818.0,
+      "end": null,
+      "athletes": [
+        0,
+        4
+      ]
+    },
+    {
+      "start": 2109.0,
+      "end": null,
+      "athletes": [
+        5,
+        1
+      ]
+    },
+    {
+      "start": 2395.0,
+      "end": null,
+      "athletes": [
+        2,
+        6
+      ]
+    },
+    {
+      "start": 2681.0,
+      "end": null,
+      "athletes": [
+        3,
+        7
+      ]
+    },
+    {
+      "start": 2910.0,
+      "end": null,
+      "athletes": [
+        4,
+        0
+      ]
+    },
+    {
+      "start": 3192.0,
+      "end": null,
+      "athletes": [
+        1,
+        5
+      ]
+    },
+    {
+      "start": 3476.0,
+      "end": null,
+      "athletes": [
+        2,
+        6
+      ]
+    },
+    {
+      "start": 3754.0,
+      "end": null,
+      "athletes": [
+        3,
+        7
+      ]
+    },
+    {
+      "start": 4073.0,
+      "end": null,
+      "athletes": [
+        4,
+        0
+      ]
+    },
+    {
+      "start": 4365.0,
+      "end": null,
+      "athletes": [
+        5,
+        1
+      ]
+    },
+    {
+      "start": 4680.0,
+      "end": null,
+      "athletes": [
+        6,
+        2
+      ]
+    },
+    {
+      "start": 4990.0,
+      "end": null,
+      "athletes": [
+        7,
+        3
+      ]
+    },
+    {
+      "start": 5280.0,
+      "end": null,
+      "athletes": [
+        4
+      ]
+    },
+    {
+      "start": 5552.0,
+      "end": null,
+      "athletes": [
+        5
+      ]
+    },
+    {
+      "start": 5791.0,
+      "end": null,
+      "athletes": [
+        6
+      ]
+    },
+    {
+      "start": 6089.0,
+      "end": null,
+      "athletes": [
+        7
+      ]
+    }
+  ],
+  "schema_version": 2
+}

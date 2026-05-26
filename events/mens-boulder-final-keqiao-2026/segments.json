@@ -1,0 +1,194 @@
+{
+  "video_id": "cpsBa_t-jew",
+  "title": "Men's Boulder final | Keqiao 2026",
+  "upload_date": "2026-05-03",
+  "athletes": [
+    {
+      "name": "Jongwon CHON",
+      "country": "KOR"
+    },
+    {
+      "name": "Xuanpu BAI",
+      "country": "CHN"
+    },
+    {
+      "name": "Hannes VAN DUYSEN",
+      "country": "BEL"
+    },
+    {
+      "name": "Yufei PAN",
+      "country": "CHN"
+    },
+    {
+      "name": "Dohyun LEE",
+      "country": "KOR"
+    },
+    {
+      "name": "Tomoa NARASAKI",
+      "country": "JPN"
+    },
+    {
+      "name": "Mejdi SCHALCK",
+      "country": "FRA"
+    },
+    {
+      "name": "Sorato ANRAKU",
+      "country": "JPN"
+    }
+  ],
+  "segments": [
+    {
+      "start": 834.0,
+      "end": null,
+      "athletes": [
+        0
+      ]
+    },
+    {
+      "start": 1125.0,
+      "end": null,
+      "athletes": [
+        1
+      ]
+    },
+    {
+      "start": 1407.0,
+      "end": null,
+      "athletes": [
+        2
+      ]
+    },
+    {
+      "start": 1688.0,
+      "end": null,
+      "athletes": [
+        3
+      ]
+    },
+    {
+      "start": 1998.0,
+      "end": null,
+      "athletes": [
+        0,
+        4
+      ]
+    },
+    {
+      "start": 2285.0,
+      "end": null,
+      "athletes": [
+        1,
+        5
+      ]
+    },
+    {
+      "start": 2574.0,
+      "end": null,
+      "athletes": [
+        2,
+        6
+      ]
+    },
+    {
+      "start": 2855.0,
+      "end": null,
+      "athletes": [
+        3,
+        7
+      ]
+    },
+    {
+      "start": 3187.0,
+      "end": null,
+      "athletes": [
+        0,
+        4
+      ]
+    },
+    {
+      "start": 3491.0,
+      "end": null,
+      "athletes": [
+        1,
+        5
+      ]
+    },
+    {
+      "start": 3780.0,
+      "end": null,
+      "athletes": [
+        2,
+        6
+      ]
+    },
+    {
+      "start": 4091.0,
+      "end": null,
+      "athletes": [
+        3,
+        7
+      ]
+    },
+    {
+      "start": 4566.0,
+      "end": null,
+      "athletes": [
+        4,
+        0
+      ]
+    },
+    {
+      "start": 4862.0,
+      "end": null,
+      "athletes": [
+        1,
+        5
+      ]
+    },
+    {
+      "start": 5152.0,
+      "end": null,
+      "athletes": [
+        2,
+        6
+      ]
+    },
+    {
+      "start": 5445.0,
+      "end": null,
+      "athletes": [
+        3,
+        7
+      ]
+    },
+    {
+      "start": 5718.0,
+      "end": null,
+      "athletes": [
+        4
+      ]
+    },
+    {
+      "start": 6005.0,
+      "end": null,
+      "athletes": [
+        5
+      ]
+    },
+    {
+      "start": 6269.0,
+      "end": null,
+      "athletes": [
+        6
+      ]
+    },
+    {
+      "start": 6537.0,
+      "end": null,
+      "athletes": [
+        7
+      ]
+    }
+  ],
+  "schema_version": 2
+}

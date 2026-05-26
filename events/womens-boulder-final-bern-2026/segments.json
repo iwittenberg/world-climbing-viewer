@@ -1,0 +1,194 @@
+{
+  "video_id": "Z2R7bspWSPo",
+  "title": "Women's Boulder final | Bern 2026",
+  "upload_date": "2026-05-23",
+  "athletes": [
+    {
+      "name": "Melody SEKIKAWA",
+      "country": "JPN"
+    },
+    {
+      "name": "Oceania MACKENZIE",
+      "country": "AUS"
+    },
+    {
+      "name": "Oriane BERTONE",
+      "country": "FRA"
+    },
+    {
+      "name": "Lucile SAUREL",
+      "country": "FRA"
+    },
+    {
+      "name": "Erin MCNEICE",
+      "country": "GBR"
+    },
+    {
+      "name": "Mao NAKAMURA",
+      "country": "JPN"
+    },
+    {
+      "name": "Brooke RABOUTOU",
+      "country": "USA"
+    },
+    {
+      "name": "Annie SANDERS",
+      "country": "USA"
+    }
+  ],
+  "segments": [
+    {
+      "start": 775.0,
+      "end": null,
+      "athletes": [
+        0
+      ]
+    },
+    {
+      "start": 1059.0,
+      "end": null,
+      "athletes": [
+        1
+      ]
+    },
+    {
+      "start": 1263.0,
+      "end": null,
+      "athletes": [
+        2
+      ]
+    },
+    {
+      "start": 1564.0,
+      "end": null,
+      "athletes": [
+        3
+      ]
+    },
+    {
+      "start": 1905.0,
+      "end": null,
+      "athletes": [
+        0,
+        4
+      ]
+    },
+    {
+      "start": 2181.0,
+      "end": null,
+      "athletes": [
+        1,
+        5
+      ]
+    },
+    {
+      "start": 2469.0,
+      "end": null,
+      "athletes": [
+        2,
+        6
+      ]
+    },
+    {
+      "start": 2754.0,
+      "end": null,
+      "athletes": [
+        3,
+        7
+      ]
+    },
+    {
+      "start": 3085.0,
+      "end": null,
+      "athletes": [
+        4,
+        0
+      ]
+    },
+    {
+      "start": 3386.0,
+      "end": null,
+      "athletes": [
+        5,
+        1
+      ]
+    },
+    {
+      "start": 3660.0,
+      "end": null,
+      "athletes": [
+        6,
+        2
+      ]
+    },
+    {
+      "start": 3979.0,
+      "end": null,
+      "athletes": [
+        7,
+        3
+      ]
+    },
+    {
+      "start": 4466.0,
+      "end": null,
+      "athletes": [
+        0,
+        4
+      ]
+    },
+    {
+      "start": 4755.0,
+      "end": null,
+      "athletes": [
+        1,
+        5
+      ]
+    },
+    {
+      "start": 5055.0,
+      "end": null,
+      "athletes": [
+        2,
+        6
+      ]
+    },
+    {
+      "start": 5358.0,
+      "end": null,
+      "athletes": [
+        3,
+        7
+      ]
+    },
+    {
+      "start": 5670.0,
+      "end": null,
+      "athletes": [
+        4
+      ]
+    },
+    {
+      "start": 5850.0,
+      "end": null,
+      "athletes": [
+        5
+      ]
+    },
+    {
+      "start": 6135.0,
+      "end": null,
+      "athletes": [
+        6
+      ]
+    },
+    {
+      "start": 6279.0,
+      "end": null,
+      "athletes": [
+        7
+      ]
+    }
+  ],
+  "schema_version": 2
+}
