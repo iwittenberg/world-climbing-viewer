@@ -1,0 +1,174 @@
+{
+  "video_id": "vrjF_eFE09k",
+  "title": "Men's Boulder final | Comunidad de Madrid 2026",
+  "upload_date": "2026-05-30",
+  "athletes": [
+    {
+      "name": "Dohyun LEE",
+      "country": "KOR"
+    },
+    {
+      "name": "Keita DOHI",
+      "country": "JPN"
+    },
+    {
+      "name": "Guillermo PEINADO FRANGANILLO",
+      "country": "ESP"
+    },
+    {
+      "name": "Oscar BAUDRAND",
+      "country": "CAN"
+    },
+    {
+      "name": "Dayan AKHTAR",
+      "country": "GBR"
+    },
+    {
+      "name": "Sorato ANRAKU",
+      "country": "JPN"
+    },
+    {
+      "name": "Samuel RICHARD",
+      "country": "FRA"
+    },
+    {
+      "name": "Colin DUFFY",
+      "country": "USA"
+    }
+  ],
+  "segments": [
+    {
+      "start": 811.0,
+      "athletes": [
+        0
+      ]
+    },
+    {
+      "start": 962.0,
+      "athletes": [
+        1
+      ]
+    },
+    {
+      "start": 1234.0,
+      "athletes": [
+        2
+      ]
+    },
+    {
+      "start": 1326.0,
+      "athletes": [
+        3
+      ]
+    },
+    {
+      "start": 1649.0,
+      "athletes": [
+        4,
+        0
+      ]
+    },
+    {
+      "start": 1926.0,
+      "athletes": [
+        5,
+        1
+      ]
+    },
+    {
+      "start": 2227.0,
+      "athletes": [
+        6,
+        2
+      ]
+    },
+    {
+      "start": 2510.0,
+      "athletes": [
+        7,
+        3
+      ]
+    },
+    {
+      "start": 2839.0,
+      "athletes": [
+        0,
+        4
+      ]
+    },
+    {
+      "start": 3155.0,
+      "athletes": [
+        1,
+        5
+      ]
+    },
+    {
+      "start": 3471.0,
+      "athletes": [
+        2,
+        6
+      ]
+    },
+    {
+      "start": 3749.0,
+      "athletes": [
+        3,
+        7
+      ]
+    },
+    {
+      "start": 4297.0,
+      "athletes": [
+        4,
+        0
+      ]
+    },
+    {
+      "start": 4589.0,
+      "athletes": [
+        5,
+        1
+      ]
+    },
+    {
+      "start": 4878.0,
+      "athletes": [
+        6,
+        2
+      ]
+    },
+    {
+      "start": 5167.0,
+      "athletes": [
+        7,
+        3
+      ]
+    },
+    {
+      "start": 5482.0,
+      "athletes": [
+        4
+      ]
+    },
+    {
+      "start": 5770.0,
+      "athletes": [
+        5
+      ]
+    },
+    {
+      "start": 5925.0,
+      "athletes": [
+        6
+      ]
+    },
+    {
+      "start": 6206.0,
+      "athletes": [
+        7
+      ]
+    }
+  ],
+  "schema_version": 3
+}
