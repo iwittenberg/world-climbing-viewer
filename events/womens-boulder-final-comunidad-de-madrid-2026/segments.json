@@ -1,0 +1,174 @@
+{
+  "video_id": "oaOE27vV9tU",
+  "title": "Women's Boulder final | Comunidad de Madrid 2026",
+  "upload_date": "2026-05-29",
+  "athletes": [
+    {
+      "name": "Melody SEKIKAWA",
+      "country": "JPN"
+    },
+    {
+      "name": "Ayala KEREM",
+      "country": "ISR"
+    },
+    {
+      "name": "Anon MATSUFUJI",
+      "country": "JPN"
+    },
+    {
+      "name": "Erin MCNEICE",
+      "country": "GBR"
+    },
+    {
+      "name": "Oriane BERTONE",
+      "country": "FRA"
+    },
+    {
+      "name": "Camilla MORONI",
+      "country": "ITA"
+    },
+    {
+      "name": "Mao NAKAMURA",
+      "country": "JPN"
+    },
+    {
+      "name": "Oceania MACKENZIE",
+      "country": "AUS"
+    }
+  ],
+  "segments": [
+    {
+      "start": 749.144632,
+      "athletes": [
+        5
+      ]
+    },
+    {
+      "start": 1031.041314,
+      "athletes": [
+        7
+      ]
+    },
+    {
+      "start": 1139.0,
+      "athletes": [
+        0
+      ]
+    },
+    {
+      "start": 1311.0,
+      "athletes": [
+        1
+      ]
+    },
+    {
+      "start": 1529.0,
+      "athletes": [
+        2,
+        5
+      ]
+    },
+    {
+      "start": 1803.780061,
+      "athletes": [
+        6,
+        7
+      ]
+    },
+    {
+      "start": 2086.0,
+      "athletes": [
+        3,
+        0
+      ]
+    },
+    {
+      "start": 2370.0,
+      "athletes": [
+        4,
+        1
+      ]
+    },
+    {
+      "start": 2669.0,
+      "athletes": [
+        2,
+        5
+      ]
+    },
+    {
+      "start": 3117.0,
+      "athletes": [
+        6,
+        7
+      ]
+    },
+    {
+      "start": 3233.0,
+      "athletes": [
+        3,
+        0
+      ]
+    },
+    {
+      "start": 3485.0,
+      "athletes": [
+        4,
+        1
+      ]
+    },
+    {
+      "start": 3983.0,
+      "athletes": [
+        5,
+        2
+      ]
+    },
+    {
+      "start": 4257.0,
+      "athletes": [
+        7,
+        6
+      ]
+    },
+    {
+      "start": 4515.0,
+      "athletes": [
+        0,
+        3
+      ]
+    },
+    {
+      "start": 4785.0,
+      "athletes": [
+        1,
+        4
+      ]
+    },
+    {
+      "start": 5135.0,
+      "athletes": [
+        2
+      ]
+    },
+    {
+      "start": 5429.0,
+      "athletes": [
+        6
+      ]
+    },
+    {
+      "start": 5714.0,
+      "athletes": [
+        3
+      ]
+    },
+    {
+      "start": 5946.142216,
+      "athletes": [
+        4
+      ]
+    }
+  ],
+  "schema_version": 3
+}
